@@ -1,7 +1,7 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/TG-V4MP1R3/Alexa-V2.git /Alexa-V2
+  git clone https://github.com/Mrtest626/viz.git /viz
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /Alexa-V2
