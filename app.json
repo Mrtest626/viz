@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/TG-V4MP1R3/Alexa-V2",
-    "repository": "https://github.com/TG-V4MP1R3/Alexa-V2",
+    "website": "https://github.com/Mrtest626/viz",
+    "repository": "https://github.com/Mrtest626/viz",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
