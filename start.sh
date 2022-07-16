@@ -4,9 +4,9 @@ then
   git clone https://github.com/Mrtest626/viz.git /viz
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /Alexa-V2
+  git clone $UPSTREAM_REPO /viz
 fi
-cd /Alexa-V2
+cd /viz
 pip3 install -U -r requirements.txt
-echo "Starting Alexa-v2....🔥"
+echo "Starting viz"
 python3 bot.py
